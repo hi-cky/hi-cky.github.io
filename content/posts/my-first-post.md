@@ -9,4 +9,4 @@ draft: true
 
 访问 [Hugo](https://gohugo.io) 网站！
 
-![1753336479840](image/my-first-post/1753336479840.png)
+此处应该有图片了![1753336479840](image/my-first-post/1753336479840.png)
